@@ -4227,10 +4227,11 @@ html {
   }
   
   .banner-title {
-    color: #fff;;
+    color: #FFD700;
     text-align: left;
     margin-top: 0;
     margin-bottom: 0;
+    font-size: 36px;
   }
   
   .banner-title.text-dark {
@@ -5696,7 +5697,7 @@ html {
   }
   
   .secondary-button {
-    color: #fff;
+    color: #FFD700;
     letter-spacing: .5px;
     text-transform: capitalize;
     background-color: rgba(0, 0, 0, 0);
